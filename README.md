@@ -6,22 +6,22 @@ Actualmente estudiante universitario en Universidad Autonoma Juan Misael Saracho
 
 Habilidades: 
 
-  Angular
-  
-  TypeScript
-  
-  Django
-  
-  Python
-  
-  Laravel
-  
-  PHP
-  
-  Java
-  
-  MySQL
-  
+      Angular
+
+      TypeScript
+
+      Django
+
+      Python
+
+      Laravel
+
+      PHP
+
+      Java
+
+      MySQL
+
 
 
 Contactame
