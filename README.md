@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola 👋 soy Cristian
+Un apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo
 
 <!--
 **MarcaCriss/MarcaCriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
