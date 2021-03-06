@@ -4,11 +4,22 @@
 
 Actualmente estudiante universitario en Universidad Autonoma Juan Misael Saracho
 
-
-
-Habilidades: VUE JS / REACT / JS / HTML / CSS
+Habilidades: 
+  Angular
+  TypeScript
+  Django
+  Python
+  Laravel
+  PHP
+  Java
+  MySQL
+  
 
 - 🔭 Estoy trabajando en this page. 
+
+Contactame
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarcaCriss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)  
+
 
 
 
