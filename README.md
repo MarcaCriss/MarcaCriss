@@ -21,7 +21,7 @@ Contactame
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarcaCriss)  [<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales)  [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_)  [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)  
+[<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales) [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_)  [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)  
 
 
 
