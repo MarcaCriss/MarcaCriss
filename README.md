@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Cristian Marca
 #### Un apasionado en el desarrollo web y machine learning.
-!['banner Inspirado en las diferentes tecnologias'](https://drive.google.com/file/d/1lrUaQXKm4tmaWy2XsLIZ1-nMyvXymp_R/view?usp=sharing)
+!['banner Inspirado en las diferentes tecnologias'](https://www.mediafire.com/view/7006sobs3s3pbpe)
 
 Actualmente estudiante universitario en Universidad Autonoma Juan Misael Saracho
 
