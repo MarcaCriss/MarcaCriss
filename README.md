@@ -123,6 +123,7 @@
                 alt="Logo Github"
                 width="110"
                 height="110"
+								style="padding: 15px;"
               >
             </a>
           </td>
