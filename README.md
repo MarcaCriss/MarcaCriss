@@ -116,17 +116,17 @@
 							/>
 						</a>
 					</th>
-          <th style="background-color: #fff;">
+          <td style="background-color: #fff;">
             <a href="github.com" target="_blank">
               <img
-                src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+                src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
                 alt="Logo Github"
                 width="110"
                 height="110"
                 style="background-color: white;"
               >
             </a>
-          </th>
+          </td>
 				</tr>
 			</tbody>
 		</table> 
