@@ -116,14 +116,13 @@
 							/>
 						</a>
 					</th>
-          <td style="background-color: #fff;">
+          <td>
             <a href="github.com" target="_blank">
               <img
-                src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"
+                src="https://logodix.com/logo/64439.png"
                 alt="Logo Github"
                 width="110"
                 height="110"
-                style="background-color: white;"
               >
             </a>
           </td>
