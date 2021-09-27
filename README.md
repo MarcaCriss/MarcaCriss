@@ -1,6 +1,7 @@
 ### Hola 👋, Mi nombre es Cristian Marca
-#### Un apasionado en el desarrollo web .
-<img src="https://www.mediafire.com/view/7006sobs3s3pbpe" alt="background tecnologias" />
+#### Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.
+
+
 
 Actualmente estudiante universitario en Universidad Autonoma Juan Misael Saracho
 
