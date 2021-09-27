@@ -1,11 +1,137 @@
-### Hola 👋, Mi nombre es Cristian Marca
-#### Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.
-
-
-
-Actualmente estudiante universitario en Universidad Autonoma Juan Misael Saracho
-
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Logo Angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1>Hola 👋, Mi nombre es Cristian Marca</h1>
+<h3>Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.</h3>
+<br><br><br><br>
+<p align="center"> 
+  <table>
+			<tbody>
+				<tr>
+          <th>
+						<a href="https://www.w3.org/html/" target="_blank">
+							<img
+								src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"
+								alt="html5"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+          <th>
+						<a href="https://www.w3schools.com/css/" target="_blank">
+							<img
+								src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg"
+								alt="css3"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+          <th>
+						<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+							<img
+								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+								alt="javascript"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+          <th>
+            <a href="https://www.typescriptlang.org" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+                alt="typescript"
+                width="100"
+                height="100"
+              >
+            </a>
+          </th>
+					<th>
+						<a href="https://angular.io" target="blank">
+							<img
+								src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
+								alt="Logo Angular"
+								width="130"
+								height="130"
+							/>
+						</a>
+					</th>
+					<th>
+						<a href="material.angular.io" target="_blank">
+							<img
+								src="https://material.angular.io/assets/img/angular-material-logo.svg"
+								alt="bootstrap"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+					<th>
+						<a href="https://firebase.google.com/" target="_blank">
+							<img
+								src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+								alt="firebase"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+				</tr>
+				<tr>
+					<th>
+						<a href="https://nestjs.com" target="_blank">
+							<img
+								src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"
+								alt="heroku"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+					<th>
+						<a href="https://laravel.com/" target="_blank">
+							<img
+								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+								alt="laravel"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+					<th>
+						<a href="https://www.mongodb.com/" target="_blank">
+							<img
+								src="https://steemitimages.com/p/JvFFVmatwWHRfvmtd53nmEJ94xpKydwmbSC5H5svBACH81DXCJpzvtmVTHhgaQ2ADcDHhATuiK56FxS2UeC9xGidZJUvkabaxMB431WeSUGcjbSaDiaeQCHKaca4khbu2JRwxaZdG2?format=match&mode=fit&width=640"
+								alt="Logo mongodb"
+								width="115"
+								height="135"
+							/>
+						</a>
+					</th>
+					<th>
+						<a href="https://www.mysql.com/" target="_blank">
+							<img
+								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+								alt="mysql"
+								width="100"
+								height="100"
+							/>
+						</a>
+					</th>
+          <th style="background-color: #fff;">
+            <a href="github.com" target="_blank">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+                alt="Logo Github"
+                width="110"
+                height="110"
+                style="background-color: white;"
+              >
+            </a>
+          </th>
+				</tr>
+			</tbody>
+		</table> 
+</p>
+ <br><br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcaCriss)](https://github.com/anuraghazra/github-readme-stats)
 
