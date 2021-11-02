@@ -136,10 +136,9 @@
  <center>
 	
 	
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcaCriss&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcaCriss&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-	![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)  
-	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)  	
 	
 </center>
 
