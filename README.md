@@ -1,12 +1,4 @@
-<html>
-	<head>
-		<style>
-			.stats {
-				width: 100%
-			}
-		</style>
-	</head>
-	<body>
+
 <br><br>
 <h1>Hola 👋, Mi nombre es Cristian Marca</h1>
 <h3>Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.</h3>
@@ -172,9 +164,3 @@ Contactame
 
 
 [<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales) [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_) [<img src='https://cdn.cdnlogo.com/logos/i/92/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marca_dragon96/) [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)  
-
-</body>
-
-
-</html>
-
