@@ -1,6 +1,6 @@
 
 <br><br>
-<h1>Hola 👋, Mi nombre es Cristian Marca</h1>
+<h1>Hola 👋, Soy Cristian Marca</h1>
 <h3>Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.</h3>
 <br><br><br><br>
 <p align="center"> 
