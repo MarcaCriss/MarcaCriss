@@ -1,18 +1,15 @@
 <br><br>
 
-<h1>
-
+###
 	Hola 👋, Soy Cristian Marca
-</h1>
-<h3>
+###
 
+###
 	Apasionado desarrollador web con experiencia en javascript.
-	Me encanta trabajar en proyectos desafiantes y crear soluciones innovadoras.
-
 	Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
-
+	
 	No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante.
-</h3>
+###
 <br><br>
 <p align="center"> 
   <table>
