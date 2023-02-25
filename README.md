@@ -1,8 +1,8 @@
 <br><br>
 
-###
+##
 	Hola 👋, Soy Cristian Marca
-###
+##
 
 ###
 	Apasionado desarrollador web con experiencia en javascript.
