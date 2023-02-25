@@ -11,7 +11,8 @@
 
 	Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-	No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante.
+	No dudes en contactarme si tienes alguna pregunta o quieres 
+	colaborar en algún proyecto interesante.
 </h3>
 <br><br>
 <p align="center"> 
