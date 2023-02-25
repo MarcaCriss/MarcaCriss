@@ -1,16 +1,17 @@
 <br><br>
-```
-Hola 👋, Soy Cristian Marca
-```
 
-```
+Hola 👋, Soy Cristian Marca
+
+<br />
+
 Apasionado desarrollador web con experiencia en javascript.
 
 Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
 No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante.
-```
-<br><br>
+<br />
+
+<br>
 <p align="center"> 
   <table>
 	<tbody>
