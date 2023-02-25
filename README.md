@@ -1,11 +1,22 @@
-
 <br><br>
-<h1>Hola 👋, Soy Cristian Marca</h1>
-<h3>Apasionado por el desarrollo web, cada dia tratando de aprender algo nuevo.</h3>
-<br><br><br><br>
+
+<h1>
+
+	Hola 👋, Soy Cristian Marca
+</h1>
+<h3>
+
+	Apasionado desarrollador web con experiencia en javascript.
+	Me encanta trabajar en proyectos desafiantes y crear soluciones innovadoras.
+
+	Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
+
+	No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante.
+</h3>
+<br><br>
 <p align="center"> 
   <table>
-			<tbody>
+	<tbody>
 				<tr>
           <th>
 						<a href="https://www.w3.org/html/" target="_blank">
@@ -118,7 +129,7 @@
 							/>
 						</a>
 					</th>
-          <td>
+          <th>
             <a href="github.com" target="_blank">
               <img
                 src="https://logodix.com/logo/64439.png"
@@ -128,7 +139,7 @@
 								style="padding: 15px;"
               >
             </a>
-          </td>
+          </th>
 				</tr>
 			</tbody>
 		</table> 
@@ -139,28 +150,16 @@
 	<tbody>
 		<tr>
 			<th>
-				
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcaCriss&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)							
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcaCriss&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 			</th>
 			<th>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)  								
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)
 			</th>
 		</tr>
 	</tbody>
-</table>	
-	
-
-
-
-	
-
-
-
-
-
+</table>
 
 Contactame
 
-
-
-[<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales)  [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_) [<img src='https://cdn.cdnlogo.com/logos/i/92/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marca_dragon96/) [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)  
+[<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales) [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_) [<img src='https://cdn.cdnlogo.com/logos/i/92/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marca_dragon96/) [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)
