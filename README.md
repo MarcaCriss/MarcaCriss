@@ -4,7 +4,7 @@
 
 <br />
 
-Aasionado desarrollador web con experiencia en javascript.
+Apasionado desarrollador web con experiencia en javascript.
 
 Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
