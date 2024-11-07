@@ -90,7 +90,7 @@ No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún 
 					<th>
 						<a href="https://laravel.com/" target="_blank">
 							<img
-								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+								src="https://laravel.com/img/logomark.min.svg"
 								alt="laravel"
 								width="100"
 								height="100"
