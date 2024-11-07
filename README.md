@@ -6,6 +6,12 @@
 
 Soy un desarrollador Full Stack apasionado por crear soluciones eficientes y escalables en proyectos de frontend y backend. Mi enfoque es combinar diseño intuitivo con funcionalidad sólida, asegurando siempre una experiencia fluida para el usuario y un código optimizado para el equipo.
 
+## Mis Habilidades
+
+Frontend: Angular, React, HTML5, CSS3, Sass, JavaScript (ES6+)
+Backend: Node.js, Express, NestJS, MongoDB, MySQL, Laravel, APIs RESTful
+Herramientas: Git, Docker
+
 Me gusta seguir buenas prácticas de programación, mantener un código limpio y modular, y aplicar principios de desarrollo ágil para adaptarme a los cambios rápidamente. Creo que una buena comunicación y colaboración son esenciales para el éxito en cualquier equipo de desarrollo.
 
 Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, desde frameworks emergentes hasta mejoras en la eficiencia de desarrollo.
