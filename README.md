@@ -1,4 +1,4 @@
-<br><br>
+<br>
 
 # 👋 ¡Hola!, Soy Cristian Marca
 
@@ -21,7 +21,7 @@ Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, de
 <br />
 
 <br>
-<p align="center"> 
+<p >
   <table>
 	<tbody>
 				<tr>
