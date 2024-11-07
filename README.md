@@ -73,16 +73,6 @@ Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, de
 							/>
 						</a>
 					</th>
-					<th>
-						<a href="https://firebase.google.com/" target="_blank">
-							<img
-								src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-								alt="firebase"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
 				</tr>
 				<tr>
 					<th>
