@@ -1,5 +1,3 @@
-<br>
-
 # 👋 ¡Hola!, Soy Cristian Marca
 
 <br />
