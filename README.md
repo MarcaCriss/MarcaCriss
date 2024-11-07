@@ -8,7 +8,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones eficientes y esc
 
 <br />
 
-##Mis Habilidades
+###   Mis Habilidades
 
 - **Frontend**: Angular, React, HTML5, CSS3, Sass, JavaScript (ES6+)
 - **Backend**: Node.js, Express, NestJS, MongoDB, MySQL, Laravel, APIs RESTful
