@@ -66,16 +66,6 @@ No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún 
 						</a>
 					</th>
 					<th>
-						<a href="material.angular.io" target="_blank">
-							<img
-								src="https://material.angular.io/assets/img/angular-material-logo.svg"
-								alt="bootstrap"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-					<th>
 						<a href="https://firebase.google.com/" target="_blank">
 							<img
 								src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
