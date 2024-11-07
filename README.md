@@ -1,14 +1,14 @@
 <br><br>
 
-# Hola 👋, Soy Cristian Marca
+# 👋 ¡Hola!, Soy Cristian Marca
 
 <br />
 
-Apasionado desarrollador web con experiencia en javascript.
+Soy un desarrollador Full Stack apasionado por crear soluciones eficientes y escalables en proyectos de frontend y backend. Mi enfoque es combinar diseño intuitivo con funcionalidad sólida, asegurando siempre una experiencia fluida para el usuario y un código optimizado para el equipo.
 
-Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
+Me gusta seguir buenas prácticas de programación, mantener un código limpio y modular, y aplicar principios de desarrollo ágil para adaptarme a los cambios rápidamente. Creo que una buena comunicación y colaboración son esenciales para el éxito en cualquier equipo de desarrollo.
 
-No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante.
+Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, desde frameworks emergentes hasta mejoras en la eficiencia de desarrollo.
 <br />
 
 <br>
