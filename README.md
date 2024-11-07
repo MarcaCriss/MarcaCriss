@@ -20,7 +20,7 @@ Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, de
 <br />
 
 <br>
-<p align="center"> 
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;"> 
   <table>
 	<tbody>
 				<tr>
@@ -129,7 +129,7 @@ Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, de
 				</tr>
 			</tbody>
 		</table> 
-</p>
+</div>
 <br><br><br><br>
 
 <table border="0">
