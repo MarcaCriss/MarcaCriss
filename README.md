@@ -26,8 +26,8 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
 
 ### Hobbies
 
-- 📚 Libros de ciencia ficción y fantasia
-- 🎮 Videojuegos
+- 📚 Leer libros de ciencia ficción y fantasia
+- 🎮 Jugar videojuegos
 - 🎬 Ver series
 
 <br>
