@@ -4,7 +4,7 @@
 
 <br />
 
-Soy un desarrollador Full Stack apasionado por crear soluciones eficientes y escalables en proyectos de frontend y backend. Mi enfoque es combinar diseño intuitivo con funcionalidad sólida, asegurando siempre una experiencia fluida para el usuario y un código optimizado para el equipo.
+Desarrollador Full Stack especializado en soluciones frontend y backend eficientes y escalables. Me apasiona optimizar la experiencia del usuario con diseño intuitivo y funcionalidad robusta.
 <br />
 <br />
 
@@ -18,9 +18,10 @@ Soy un desarrollador Full Stack apasionado por crear soluciones eficientes y esc
 <br />
 
 ### Acerca de mi
-Me gusta seguir buenas prácticas de programación, mantener un código limpio y modular, y aplicar principios de desarrollo ágil para adaptarme a los cambios rápidamente. Creo que una buena comunicación y colaboración son esenciales para el éxito en cualquier equipo de desarrollo.
-<br /><br />
-Me apasiona seguir aprendiendo y explorando nuevas tecnologías y tendencias, desde frameworks emergentes hasta mejoras en la eficiencia de desarrollo.
+Me gusta aplicar buenas prácticas de programación, mantener un código limpio y modular, y trabajar bajo principios de desarrollo ágil para adaptarme rápidamente a los cambios. Creo que una buena comunicación y colaboración son esenciales para el éxito de cualquier equipo de desarrollo.
+
+Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde frameworks emergentes hasta herramientas que mejoren la eficiencia del desarrollo. Me motiva aprender y explorar para crecer continuamente en mi carrera.
+
 <br />
 
 <br>
