@@ -98,7 +98,7 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
 <p align="center">
   <a href="https://github.com/MarcaCriss" target="_blank">
     <img
-      src="https://cdn.simpleicons.org/github"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
       alt="GitHub"
       width="40"
       height="40"
