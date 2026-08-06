@@ -104,4 +104,13 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
       height="40"
     >
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cristian-marca/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    >
+  </a>
 </p>
