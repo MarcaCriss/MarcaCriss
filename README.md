@@ -96,23 +96,12 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.facebook.com/cristianpablo.marcagonzales" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/Criss_Mark_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/marca_dragon96/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/MarcaCriss" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40">
+    <img
+      src="https://cdn.simpleicons.org/github"
+      alt="GitHub"
+      width="40"
+      height="40"
+    >
   </a>
 </p>
