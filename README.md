@@ -82,12 +82,12 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia&showTitle=false"
+    src="https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia&hide_title=false"
     alt="Estadísticas de GitHub de Cristian Marca"
     height="180"
   >
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=algolia&showTitle=false"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=algolia&hide_title=false"
     alt="Lenguajes más utilizados por Cristian Marca"
     height="180"
   >
