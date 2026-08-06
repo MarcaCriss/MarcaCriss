@@ -1,161 +1,118 @@
+# 👋 ¡Hola! Soy Cristian Marca
 
+Desarrollador Full Stack especializado en crear soluciones frontend y backend eficientes y escalables. Me apasiona mejorar la experiencia del usuario mediante interfaces intuitivas y funcionalidades robustas.
 
-# 👋 ¡Hola!, Soy Cristian Marca
+## 🛠️ Mis habilidades
 
-<br />
+- **Frontend:** Angular, React, HTML5, CSS3, Sass, JavaScript y TypeScript.
+- **Backend:** Node.js, Express, NestJS, Laravel, MongoDB, MySQL y APIs RESTful.
+- **Herramientas:** Git y Docker.
 
-Desarrollador Full Stack especializado en soluciones frontend y backend eficientes y escalables. Me apasiona optimizar la experiencia del usuario con diseño intuitivo y funcionalidad robusta.
-<br />
-<br />
+## 👨‍💻 Acerca de mí
 
+Me gusta aplicar buenas prácticas de programación y mantener un código limpio, modular y fácil de mantener. También disfruto trabajar con metodologías ágiles, ya que permiten adaptarse rápidamente a los cambios y colaborar eficientemente en equipo.
 
-### Mis Habilidades
+Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde frameworks emergentes hasta herramientas que mejoren la eficiencia del desarrollo. Me motiva aprender, experimentar y continuar creciendo profesionalmente.
 
-- **Frontend**: Angular, React, HTML5, CSS3, Sass, JavaScript (ES6+)
-- **Backend**: Node.js, Express, NestJS, MongoDB, MySQL, Laravel, APIs RESTful
-- **Herramientas**: Git, Docker
+## 🎯 Hobbies
 
-<br />
+- 📚 Leer libros de ciencia ficción y fantasía.
+- 🎮 Jugar videojuegos.
+- 🎬 Ver series.
 
-### Acerca de mi
-Me gusta aplicar buenas prácticas de programación, mantener un código limpio y modular, y trabajar bajo principios de desarrollo ágil para adaptarme rápidamente a los cambios. Creo que una buena comunicación y colaboración son esenciales para el éxito de cualquier equipo de desarrollo.
+## 🚀 Tecnologías
 
-Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde frameworks emergentes hasta herramientas que mejoren la eficiencia del desarrollo. Me motiva aprender y explorar para crecer continuamente en mi carrera.
-
-<br />
-
-### Hobbies
-
-- 📚 Leer libros de ciencia ficción y fantasia
-- 🎮 Jugar videojuegos
-- 🎬 Ver series
-
-<br>
-<p >
-  <table>
-	<tbody>
-				<tr>
-          <th>
-						<a href="https://www.w3.org/html/" target="_blank">
-							<img
-								src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"
-								alt="html5"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-          <th>
-						<a href="https://www.w3schools.com/css/" target="_blank">
-							<img
-								src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg"
-								alt="css3"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-          <th>
-						<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-							<img
-								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-								alt="javascript"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-          <th>
-            <a href="https://www.typescriptlang.org" target="_blank">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-                alt="typescript"
-                width="100"
-                height="100"
-              >
-            </a>
-          </th>
-					<th>
-						<a href="https://angular.io" target="blank">
-							<img
-								src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"
-								alt="Logo Angular"
-								width="130"
-								height="130"
-							/>
-						</a>
-					</th>
-				</tr>
-				<tr>
-					<th>
-						<a href="https://nestjs.com" target="_blank">
-							<img
-								src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"
-								alt="heroku"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-					<th>
-						<a href="https://laravel.com/" target="_blank">
-							<img
-								src="https://laravel.com/img/logomark.min.svg"
-								alt="laravel"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-					<th>
-						<a href="https://www.mongodb.com/" target="_blank">
-							<img
-								src="https://steemitimages.com/p/JvFFVmatwWHRfvmtd53nmEJ94xpKydwmbSC5H5svBACH81DXCJpzvtmVTHhgaQ2ADcDHhATuiK56FxS2UeC9xGidZJUvkabaxMB431WeSUGcjbSaDiaeQCHKaca4khbu2JRwxaZdG2?format=match&mode=fit&width=640"
-								alt="Logo mongodb"
-								width="115"
-								height="135"
-							/>
-						</a>
-					</th>
-					<th>
-						<a href="https://www.mysql.com/" target="_blank">
-							<img
-								src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-								alt="mysql"
-								width="100"
-								height="100"
-							/>
-						</a>
-					</th>
-          <th>
-            <a href="github.com" target="_blank">
-              <img
-                src="https://logodix.com/logo/64439.png"
-                alt="Logo Github"
-                width="110"
-                height="110"
-								style="padding: 15px;"
-              >
-            </a>
-          </th>
-				</tr>
-			</tbody>
-		</table> 
+<p align="center">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70">
+  </a>
 </p>
-<br><br><br><br>
 
-<table border="0">
-	<tbody>
-		<tr>
-			<th>
-				[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia)
-			</th>
-			<th>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)
-			</th>
-		</tr>
-	</tbody>
-</table>
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" height="70">
+  </a>
+</p>
 
-Contactame
+## 📊 Estadísticas de GitHub
 
-[<img src='https://cdn.cdnlogo.com/logos/f/83/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cristianpablo.marcagonzales) [<img src='https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg' alt='twitter' height='40'>](https://twitter.com/Criss_Mark_) [<img src='https://cdn.cdnlogo.com/logos/i/92/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marca_dragon96/) [<img src='https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia"
+    alt="Estadísticas de GitHub de Cristian Marca"
+    height="180"
+  >
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=algolia"
+    alt="Lenguajes más utilizados por Cristian Marca"
+    height="180"
+  >
+</p>
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.facebook.com/cristianpablo.marcagonzales" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/Criss_Mark_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/marca_dragon96/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCJ6dNv1mJ9PmN1Ey7JIthhQ" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MarcaCriss" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40">
+  </a>
+</p>
