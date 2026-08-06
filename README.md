@@ -147,7 +147,7 @@ Siempre estoy en busca de nuevos conocimientos y tendencias tecnológicas, desde
 	<tbody>
 		<tr>
 			<th>
-				[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=algolia)
+				[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcaCriss&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=algolia)
 			</th>
 			<th>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcaCriss&show_icons=true&theme=algolia)
